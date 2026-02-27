@@ -11,4 +11,4 @@ logs/
 *.npz
 *.pkl
 .vscode/
-model/vitac/model_and_config/
+model/vitac/model_and_config
