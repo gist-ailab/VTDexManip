@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+runs/
+outputs/
+logs/
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.pkl
+.vscode/
